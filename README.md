@@ -5,5 +5,6 @@ follow the steps shown : https://ai.google.dev/gemini-api/docs/quickstart?lang=p
 Pass the GEMINI_URL and GEMINI_KEY as enviornment variable
 
 the front end project using reactJs link below:
+https://github.com/Malteshkr/email-writer-react
 
 
